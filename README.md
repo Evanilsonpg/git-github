@@ -1,2 +1,2 @@
 # Curso GitHub
-Pasta de aulas.
+Pasta de aulas
